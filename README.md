@@ -92,8 +92,7 @@ Python-based lead generation system with web scraping and automated data extract
 
 ### Contribution Activity
 
-[![Ronit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronit-khupase&theme=github-dark)]
-
+![Profile Views](https://komarev.com/ghpvc/?username=ronit-khupase&color=blue)
 ---
 
 ## Connect With Me
