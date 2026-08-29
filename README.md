@@ -90,11 +90,9 @@ Python-based lead generation system with web scraping and automated data extract
 
 ---
 
-## GitHub Stats
+### Contribution Activity
 
-![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronit-khupase&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-khupase&layout=compact)
+[![Ronit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronit-khupase&theme=github-dark)]
 
 ---
 
