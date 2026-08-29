@@ -2,7 +2,7 @@
 
 🎓 MSc Computer Applications (Final Year) Student  
 💻 Backend Developer | Java & Spring Boot Enthusiast  
-🤖 Exploring AI & Machine Learning
+🤖 Exploring AI & Machine Learning  
 🚀 Building projects and strengthening problem-solving skills every day
 
 
@@ -88,11 +88,6 @@ Python-based lead generation system with web scraping and automated data extract
 - [ ] Data Structures & Algorithms
 - [ ] System Design
 
----
-
-### Contribution Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=ronit-khupase&color=blue)
 ---
 
 ## Connect With Me
